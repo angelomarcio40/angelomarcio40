@@ -17,8 +17,16 @@
   <img align="center" alt="Angelo-MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-  <p align="center">
-  <a href="https://github.com/sponsors/ryo-ma">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
+  </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
+  </a>
+</p>
+<p align="center">
+  </a>
+    <a href="https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy">
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy"/> 
   </a>
 </p>
