@@ -1,5 +1,9 @@
 ### Olá eu sou Angelo Marcio Perira 👋
 
+<p align="center">
+  <img src="https://github.com/angelomarcio40/angelomarcio40/raw/main/assets/header-github.gif" alt="Oi, eu sou o Angelo">
+</p>
+
 - 🌱 Eu estou estudando HTML5, CSS3, banco de dados...
 - 😄 Pronouns: ele/dele
 - 
