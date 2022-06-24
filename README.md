@@ -2,7 +2,7 @@
 
 - 🌱 Eu estou estudando HTML5, CSS3, banco de dados...
 - 😄 Pronouns: ele/dele
-- 
+
 <div align="center">
   <a href="https://github.com/angelomarcio40">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko"/>
