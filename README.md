@@ -1,4 +1,4 @@
-### Olá eu sou Angelo Marcio Perira 👋
+### Olá eu sou Angelo Marcio Pereira 👋
 
 - 🌱 Eu estou estudando HTML5, CSS3, banco de dados...
 - 😄 Pronouns: ele/dele
