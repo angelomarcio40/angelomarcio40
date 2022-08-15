@@ -1,6 +1,6 @@
 ### Olá eu sou Angelo Marcio Pereira 👋
 
-- 🌱 Eu estou estudando HTML5, CSS3, banco de dados...
+- 🌱 Eu estou estudando HTML5, CSS3, banco de dados, PHP...
 - 😄 Pronouns: ele/dele
 
 <div align="center">
